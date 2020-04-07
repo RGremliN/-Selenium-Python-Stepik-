@@ -1,0 +1,17 @@
+[0406/172608.761:ERROR:process_info.cc(329)] VirtualQueryEx: Отказано в доступе. (0x5)
+[0406/172608.761:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0406/172608.761:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0406/172608.744:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказ доступа} Процесс запросил доступ к объекту, однако права доступа не предоставлены. (0xc0000022)
+[0406/172608.770:ERROR:exception_snapshot_win.cc(98)] thread ID 6864 not found in process
+[0406/172608.759:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказ доступа} Процесс запросил доступ к объекту, однако права доступа не предоставлены. (0xc0000022)
+[0406/172608.771:ERROR:exception_snapshot_win.cc(98)] thread ID 4884 not found in process
+[0406/172608.757:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказ доступа} Процесс запросил доступ к объекту, однако права доступа не предоставлены. (0xc0000022)
+[0406/172608.771:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0406/172608.771:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0406/172608.761:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0406/172608.744:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказ доступа} Процесс запросил доступ к объекту, однако права доступа не предоставлены. (0xc0000022)
+[0406/172608.771:ERROR:exception_snapshot_win.cc(98)] thread ID 6056 not found in process
+[0406/172608.771:ERROR:exception_snapshot_win.cc(98)] thread ID 5364 not found in process
+[0406/172608.773:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0407/122750.642:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказ доступа} Процесс запросил доступ к объекту, однако права доступа не предоставлены. (0xc0000022)
+[0407/122750.652:ERROR:exception_snapshot_win.cc(98)] thread ID 7328 not found in process
